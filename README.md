@@ -1,3 +1,3 @@
 # docker-nexus3
 
-Version: 3.41.0
+Version: 3.41.1
